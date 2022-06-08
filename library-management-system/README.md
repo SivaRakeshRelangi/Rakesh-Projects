@@ -91,10 +91,8 @@ Superuser/Admin can add students, add books, issue books to student, delete the 
 ### Click Submit Button then the Book will addd in to the Book List as shown in the Image.
 ![userinteractionwithchatbot](addingdone.png)
 
+### We can Update, Remove and see the Book details by clicking the Action Buttons(Update,Remove,Details)
 
-![userinteractionwithchatbot](Addnewbook.png)
-![userinteractionwithchatbot](Addnewbook.png)
-![userinteractionwithchatbot](Addnewbook.png)
 
 
 
