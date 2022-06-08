@@ -70,18 +70,30 @@ After that run
 ```
  and head over to the browser to http://127.0.0.1:8000 and login.
 
-## Screenshots
-![userinteractionwithchatbot](Addnewbook.png)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-
-
-There are two types of user one is superuser/admin and another is regular user/students.
+## Important Instructions To Add First admin User and BOOK Genre 
+- There are two types of user one is superuser/admin and another is regular user/students.
 Superuser/Admin can add students, add books, issue books to student, delete the returned book, edit and delete books and students profile.
 
-While, student can login and see books list and the books issued by them.
-To register students have to fill up a information form and after that admin can view the informations sent by student in admin site and add a new student based on the details filled by the students in the information form if he/she is verified student of the given organizations.
-Then admin will send the credentials created by them via email to the student and using those credentials student can login to the library.
+- While, student can login and see books list and the books issued by them.
+- To register students have to fill up a information form and after that admin can view the informations sent by student in admin site and add a new student based on the details filled by the students in the information form if he/she is verified student of the given organizations.
+- Then admin will send the credentials created by them via email to the student and using those credentials student can login to the library.
 
-Before adding new books please go to the http://127.0.0.1:8000/admin admin site and add the required genre and language manually as we cannot add genre and language through the site. And visit the admin site to see information form regularly as if someone had registered for the library.
+- Before adding new books please go to the http://127.0.0.1:8000/admin admin site and add the required genre and language manually as we cannot add genre and language through the site. And visit the admin site to see information form regularly as if someone had registered for the library.
+
+
+## Screenshots
+We can add new books to the Book List as shown in the Image
+![userinteraction](Addnewbook.png)
+
+Enter the Book details so Everyone can know abut the Book
+![userinteractionwithchatbot](addingbookdetails.png)
+Click Submit Button then the Book will addd in to the Book List as shown in the Image.
+![userinteractionwithchatbot](addingdone.png)
+![userinteractionwithchatbot](Addnewbook.png)
+![userinteractionwithchatbot](Addnewbook.png)
+![userinteractionwithchatbot](Addnewbook.png)
+
+
+
+
+
