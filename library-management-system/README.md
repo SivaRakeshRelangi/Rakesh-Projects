@@ -93,6 +93,8 @@ Superuser/Admin can add students, add books, issue books to student, delete the 
 
 ### We can Update, Remove and see the Book details by clicking the Action Buttons(Update,Remove,Details)
 
+# Note ::
+We can add Students also not only books. After we add Students the student can see the Book list available in the Library.
 
 
 
