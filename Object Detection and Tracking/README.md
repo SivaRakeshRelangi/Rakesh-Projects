@@ -21,4 +21,4 @@ In Yolov3 algorithm we are having a CFG Folder in that Folder we have:
 
 # Image After Object Detection Will be Like This :
 
-![After Detection](ObjectDetectiondone.jpeg)
+![After Detection](ObjectDetectiondone.png)
