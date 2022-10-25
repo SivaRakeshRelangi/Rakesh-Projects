@@ -1,6 +1,6 @@
 # Object Detections Using Yolo
 
-![Design preview for the Pricing component with toggle coding challenge](groupFriendsBeforeDetection.JPEG)
+![Before Detection](groupFriendsBeforeDetection.jpeg)
 
 **To do this challenge, you need a basic understanding of Yolov3 Algorithm and CV2 Module.**
 
