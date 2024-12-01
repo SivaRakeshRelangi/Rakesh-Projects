@@ -60,4 +60,4 @@ Log in with the superuser credentials you created.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1nDTysoiAQE3ltW-src_X4qk37B7K80rG/view?usp=sharing)
+![afterGoogleloginTaskcreateAddEDITDelete](afterGoogleloginTaskcreateAddEDITDelete.png)
