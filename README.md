@@ -82,3 +82,11 @@ Log in with the superuser credentials you created.
 
 ![afterGoogleloginTaskcreateAddEDITDelete](afterGoogleloginTaskcreateAddEDITDelete.png)
 
+![DjangoAdminaddGoogleApplication](DjangoAdminaddGoogleApplication.png)
+
+![DjangoAdminaddoreditusersandEmailstoo](DjangoAdminaddoreditusersandEmailstoo.png)
+
+![SuperuserLoginandaddedGoogleaccount](SuperuserLoginandaddedGoogleaccount.png)
+
+![CreateEditTaskPAge.png](CreateEditTaskPAge.png)
+
