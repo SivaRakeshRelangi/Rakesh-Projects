@@ -39,7 +39,7 @@ Enable the "Google Identity Platform" and create OAuth 2.0 credentials.
 Add your Client ID and Client Secret to the following section in settings.py:
 
 ```bash
-  SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'your-client-id.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'your-client-id.apps.googleusercontent.com'
 SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'your-client-secret'
 ```
 ### 5. Check Migrations and Apply Them
@@ -80,5 +80,5 @@ Customize the admin panel to manage tasks and send user invitations. Access the 
 Log in with the superuser credentials you created.
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1nDTysoiAQE3ltW-src_X4qk37B7K80rG/view?usp=sharing)
+![afterGoogleloginTaskcreateAddEDITDelete](afterGoogleloginTaskcreateAddEDITDelete.png)
 
