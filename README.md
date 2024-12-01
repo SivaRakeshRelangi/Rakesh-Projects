@@ -1,7 +1,7 @@
 
 # Users can manage personal tasks after logging in with their Google account.
 
-A brief description of what this project does and who it's for
+Download Zip File and extract Project and Follow Steps
 
 
 ## Follow the steps below to set up the project locally:
