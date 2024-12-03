@@ -80,13 +80,15 @@ Customize the admin panel to manage tasks and send user invitations. Access the 
 Log in with the superuser credentials you created.
 ## Screenshots
 
-![afterGoogleloginTaskcreateAddEDITDelete](afterGoogleloginTaskcreateAddEDITDelete.png)
+
 
 ![DjangoAdminaddGoogleApplication](DjangoAdminaddGoogleApplication.png)
 
 ![DjangoAdminaddoreditusersandEmailstoo](DjangoAdminaddoreditusersandEmailstoo.png)
 
 ![SuperuserLoginandaddedGoogleaccount](SuperuserLoginandaddedGoogleaccount.png)
+
+![afterGoogleloginTaskcreateAddEDITDelete](afterGoogleloginTaskcreateAddEDITDelete.png)
 
 ![CreateEditTaskPAge.png](CreateEditTaskPAge.png)
 
